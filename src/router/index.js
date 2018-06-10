@@ -8,7 +8,6 @@ import Confirmation from '@/components/Confirmation'
 Vue.use(Router)
 
 export default new Router({
-  base: '/vuejs/vue-shop/', 
   mode: 'history',
   routes: [
     {
