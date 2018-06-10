@@ -15,7 +15,7 @@
 ## Notes
 * Built using `webpack` starter in [`vue-cli`](https://github.com/vuejs/vue-cli)
 
-* All of the items you can see are obtained from [Marvel Comics API](https://developer.marvel.com/). You need to signup to get a personal free key to start using API.
+* All items you can see are obtained from [Marvel Comics API](https://developer.marvel.com/). You need to signup to get a personal free key to start using API.
 
 ## Quickstart
 Start & install dependencies:
