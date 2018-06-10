@@ -14,8 +14,7 @@ export default new Router({
     {
       path: '/',
       name: 'Home',
-      component: Home,
-      alias: '/index.html'
+      component: Home
     },
     {
       path: '/list/:format',
