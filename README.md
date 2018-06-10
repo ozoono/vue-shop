@@ -1,21 +1,34 @@
 # vue-shop
+> A online shop demo using [Vue.js 2](http://vuejs.org/guide/), [Vuex](https://github.com/vuejs/vuex) & [Vue Router](https://router.vuejs.org/). I've used the free Marvel Comics API to get lists of real products from different categories (in this way buying process looks a bit more realistic). Obviously, you can't really buy them :)
 
-> A Vue.js project
+<p align="center">
+	<a href="http://www.ozoono.com/vuejs/vue-shop/index.html" target="_blank">
+ 		<img src="http://www.ozoono.com/vuejs/vue-shop/screenshot.png" alt="vue-shop demo" />
+ 		<br/>
+ 		- Live demo -
+ 	</a>
+</p>
 
-## Build Setup
+## Other dependencies
+ - [`axios`](https://github.com/axios/axios)
 
-``` bash
-# install dependencies
-npm install
+## Notes
+* Built using `webpack` starter in [`vue-cli`](https://github.com/vuejs/vue-cli)
 
-# serve with hot reload at localhost:8080
-npm run dev
+* All of the items you can see are obtained from [Marvel Comics API](https://developer.marvel.com/). You need to signup to get a personal free key to start using API.
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
+## Quickstart
+Start & install dependencies:
+```bash
+$ npm install
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Develop at localhost:
+```bash
+$ npm run dev
+```
+
+Build for production:
+```bash
+$ npm run build
+```

@@ -17,7 +17,7 @@
       <div class="item">
         <i class="orange cart plus icon"></i>
         <div class="content">
-          You can select all you want and see how your cart changes (all of the items you can see are obtained from the free <strong>Marvel's API</strong>).
+          You can select all you want and see how your cart changes (all of the items you can see are obtained from the free <strong>Marvel Comics API</strong>).
         </div>
       </div>
       <div class="item">
