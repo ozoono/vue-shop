@@ -13,7 +13,7 @@
  - [`axios`](https://github.com/axios/axios)
 
 ## Notes
-* Built using `webpack` starter in [`vue-cli`](https://github.com/vuejs/vue-cli)
+* Built using `webpack` starter in [`vue-cli`](https://github.com/vuejs/vue-cli) (Vue CLI 2)
 
 * All items you can see are obtained from [Marvel Comics API](https://developer.marvel.com/). You need to signup to get a personal free key to start using API.
 
